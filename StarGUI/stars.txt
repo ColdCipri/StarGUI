@@ -1,0 +1,3 @@
+Star1,Constelation1,50,30,10
+Star2,Constelation3,30,30,5
+Star3,Constelation2,10,100,30
